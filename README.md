@@ -22,10 +22,13 @@ Using onClick function to call a function that sets the useState data function i
 #
 #
 #
+ You need to install Node and Npm on your machine to run this project
 
 #
 #
-#
+ To run this application, use git clone + the address
+ After that run Npm install to install the node modele dependencies needed in the project
+ then run npm start
 
 #
 #
