@@ -1,6 +1,8 @@
 # REACT
 # A react application
 
+# Project design gotten from https://www.uidesigndaily.com/ 
+
 # A birthday remainder application built with react
 
 This application was built using useState-Hook with the data stored locally.
