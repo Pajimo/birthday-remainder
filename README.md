@@ -19,13 +19,25 @@ At the last part of the application, there is a button that clears all the data 
 The button makes use of the function from the useState-Hook to clear the page.
 
 Using onClick function to call a function that sets the useState data function into an emtpy array.
+#
+#
+#
 
+#
+#
+#
 
+#
+#
 
+#
+#
+#
+##
 
-
-
-
-
-
+#
+#
+##
+#
+#
  First basic react project. 
