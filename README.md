@@ -28,4 +28,4 @@ Using onClick function to call a function that sets the useState data function i
 
 
 
-# First basic rect project. 
+ First basic react project. 
